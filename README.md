@@ -1,4 +1,4 @@
-# get contract code of verifed
+# Get contract code of verifed through scrapy
 
 ### Dependency
 
